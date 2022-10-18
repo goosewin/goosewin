@@ -5,7 +5,7 @@ I'm a Full Stack Software Engineer with 7+ years of experience building scalable
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [daniel@webline.app](mailto:daniel@webline.app)
-* 💻  My personal website is [goosewin.me](https://goosewin.me) 
+* 💻  My portfolio website is [goosewin.me](https://goosewin.me) 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
