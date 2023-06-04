@@ -1,7 +1,7 @@
 Daniel Stolbov
 ===============================
 
-I'm a Full Stack Software Engineer with 3+ years of experience building scalable web applications
+I'm a Full Stack Software Engineer with 7+ years of experience building scalable web applications
 
 * 🌍  Located in California
 * ✉️  You can contact me at [daniel@webline.app](mailto:daniel@webline.app)
