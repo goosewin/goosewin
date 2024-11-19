@@ -1,4 +1,4 @@
-Daniel Stolbov
+Dan Goosewin
 ===============================
 
 * 🧑‍💻 SDE Manager at [Deaglo](https://deaglo.com/)
@@ -9,4 +9,3 @@ Daniel Stolbov
 ### Links
 
 <p align="left"> <a href="https://www.github.com/goosewin" target="_blank" rel="noreferrer">GitHub</a> • <a href="https://www.linkedin.com/in/dstolbov" target="_blank" rel="noreferrer">LinkedIn</a> • <a href="https://goosew.in" target="_blank" rel="noreferrer">Website</a> </p>
-
