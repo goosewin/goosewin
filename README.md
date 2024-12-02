@@ -8,4 +8,4 @@ Dan Goosewin
 
 ### Links
 
-<p align="left"> <a href="https://www.github.com/goosewin" target="_blank" rel="noreferrer">GitHub</a> • <a href="https://www.linkedin.com/in/dstolbov" target="_blank" rel="noreferrer">LinkedIn</a> • <a href="https://goosew.in" target="_blank" rel="noreferrer">Website</a> </p>
+<p align="left"> <a href="https://www.x.com/dan_goosewin" target="_blank" rel="noreferrer">X</a> • <a href="https://www.linkedin.com/in/dstolbov" target="_blank" rel="noreferrer">LinkedIn</a> • <a href="https://goosew.in" target="_blank" rel="noreferrer">Blog</a> </p>
