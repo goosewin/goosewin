@@ -2,8 +2,8 @@ Dan Goosewin
 ===============================
 
 * 🧑‍💻 SDE Manager at [Deaglo](https://deaglo.com/)
-* 🌍 Located in California
-* ✉️ You can contact me at [daniel@webline.app](mailto:daniel@webline.app)
+* 🌍 Located in San Francisco, CA
+* ✉️ You can contact me at [dan@goosewin.com](mailto:dan@goosewin.com)
 * 🤝 I'm open to helping build products that solve real problems
 
 ### Links
