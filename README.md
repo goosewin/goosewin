@@ -1,13 +1,16 @@
 Dan Goosewin
 ===============================
 
-I build cool things
+I build cool things.
 
 * 🧑‍💻 SDE Manager at [Deaglo](https://deaglo.com/)
 * 🧑‍💻 Co-host at [NextDev.fm](https://nextdev.fm/)
 * 🌍 Located in San Francisco, CA
 * ✉️ You can contact me at [dan@goosewin.com](mailto:dan@goosewin.com)
 * 🤝 I'm open to helping build products that solve real problems
+
+### Interests
+Software, entrepreneurship, videogames, rubber duck debugging, making the world a better place.
 
 ### Links
 
