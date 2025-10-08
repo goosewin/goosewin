@@ -6,7 +6,7 @@ I build cool things.
 * 👨‍💻 DevRel Lead at [Vapi](https://vapi.ai/)
 * 🎙️ Co-host at [NextDev.fm](https://nextdev.fm/)
 * 🌍 Located in San Francisco, CA
-* ✉️ You can contact me at [dan@goosewin.com](mailto:dan@goosewin.com)
+* ✉️ You can contact me by DMing me on X/Twitter
 * 🤝 I'm open to helping build products that solve real problems
 
 ### Interests
