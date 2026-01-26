@@ -6,8 +6,6 @@ Just a dude building things on the internet.
 * Co-host at [NextDev.fm](https://nextdev.fm/)
 * Currently embracing ralph loops and running AI agents to write code 24/7
 
-Builder and writer. Based in San Francisco.
-
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
