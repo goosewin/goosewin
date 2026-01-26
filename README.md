@@ -42,7 +42,5 @@ Builder and writer. Based in San Francisco.
 - [chronicler](https://github.com/goosewin/chronicler): AI-driven changelog
   generator for Git repositories.
 - [goosewin.com](https://goosewin.com): Personal site and writing.
-- [inverview-agent](https://github.com/goosewin/inverview-agent): Automated
-  technical interview agent.
 - [goosewin-nvim](https://github.com/goosewin/goosewin-nvim): Neovim
   configuration based on LazyVim.
