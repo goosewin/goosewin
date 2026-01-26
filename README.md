@@ -39,6 +39,10 @@ Just a dude building things on the internet.
 
 ## Latest projects
 
+- [gralph](https://github.com/goosewin/gralph): Autonomous AI coding loops
+  CLI with multi-harness support.
+- [better-youtube](https://github.com/goosewin/better-youtube): YouTube UX
+  enhancements and quality-of-life tweaks (hide annoying stuff like shorts).
 - [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
   server and compliance harness for Rust.
 - [chronicler](https://github.com/goosewin/chronicler): AI-driven changelog
