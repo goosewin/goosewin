@@ -2,9 +2,9 @@
 
 Just a dude building things on the internet.
 
-- Previously DevRel Lead at https://vapi.ai
-- Co-host at https://nextdev.fm
-- Currently embracing ralph loops and running AI agents to write code 24/7
+* Previously DevRel Lead at [Vapi](https://vapi.ai/)
+* Co-host at [NextDev.fm](https://nextdev.fm/)
+* Currently embracing ralph loops and running AI agents to write code 24/7
 
 Builder and writer. Based in San Francisco.
 
