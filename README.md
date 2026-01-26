@@ -1,5 +1,13 @@
 # Dan Goosewin
 
+Just a dude building things on the internet.
+
+- Previously DevRel Lead at https://vapi.ai
+- Co-host at https://nextdev.fm
+- Located in San Francisco, CA
+- Best way to reach me: DM on X (@Goosewin)
+- Open to collaborating on products that solve real problems
+
 Builder and writer. Based in San Francisco.
 
 ## Selected Work
