@@ -4,9 +4,15 @@ Just a dude building things on the internet.
 
 - Previously DevRel Lead at https://vapi.ai
 - Co-host at https://nextdev.fm
-- Located in San Francisco, CA
-- Best way to reach me: DM on X (@Goosewin)
-- Open to collaborating on products that solve real problems
+- Currently embracing ralph loops and running AI agents to write code 24/7
+
+Builder and writer. Based in San Francisco.
+
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,rust,postgres,sqlite,redis,docker,vercel,aws,git,github,linux,neovim" alt="Tech stack" />
+</p>
 
 ## Selected Work
 
@@ -19,9 +25,3 @@ Just a dude building things on the internet.
   technical interview agent.
 - [goosewin-nvim](https://github.com/goosewin/goosewin-nvim): Neovim
   configuration based on LazyVim.
-
-## Links
-
-- https://goosewin.com
-- https://x.com/Goosewin
-- https://www.linkedin.com/in/goosewin
