@@ -8,8 +8,6 @@ Just a dude building things on the internet.
 
 Builder and writer. Based in San Francisco.
 
-## Stack
-
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -37,7 +35,7 @@ Builder and writer. Based in San Francisco.
   <img height="20" src="https://img.shields.io/badge/-Gemini%20CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
 </p>
 
-## Selected Work
+## Latest projects
 
 - [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
   server and compliance harness for Rust.
