@@ -11,7 +11,30 @@ Builder and writer. Based in San Francisco.
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,rust,postgres,sqlite,redis,docker,vercel,aws,git,github,linux,neovim" alt="Tech stack" />
+  <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img height="20" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+  <img height="20" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img height="20" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img height="20" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img height="20" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img height="20" src="https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img height="20" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img height="20" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img height="20" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img height="20" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img height="20" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img height="20" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img height="20" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img height="20" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
+  <img height="20" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+<p align="left">
+  <img height="20" src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img height="20" src="https://img.shields.io/badge/-OpenCode-111111?style=flat-square" alt="OpenCode" />
+  <img height="20" src="https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img height="20" src="https://img.shields.io/badge/-Gemini%20CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
 </p>
 
 ## Selected Work
