@@ -8,8 +8,6 @@ Just a dude building things on the internet.
 - Best way to reach me: DM on X (@Goosewin)
 - Open to collaborating on products that solve real problems
 
-Builder and writer. Based in San Francisco.
-
 ## Selected Work
 
 - [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
