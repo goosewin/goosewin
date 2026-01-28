@@ -2,7 +2,7 @@
 
 Just a dude building things on the internet.
 
-* Previously DevRel Lead at [Vapi](https://vapi.ai/)
+* Previously led Developer Relations at [Vapi](https://vapi.ai/)
 * Co-host at [NextDev.fm](https://nextdev.fm/)
 * Currently embracing ralph loops and running AI agents to write code 24/7
 
