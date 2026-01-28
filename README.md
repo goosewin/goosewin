@@ -1,7 +1,5 @@
 # Dan Goosewin
 
-Just a dude building things on the internet.
-
 * Previously led Developer Relations at [Vapi](https://vapi.ai/)
 * Co-host at [NextDev.fm](https://nextdev.fm/)
 * Currently embracing ralph loops and running AI agents to write code 24/7
