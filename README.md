@@ -1,8 +1,9 @@
 # Dan Goosewin
 
+* Content creator on [YouTube](https://youtube.com/@dan_goosewin)
 * Previously led Developer Relations at [Vapi](https://vapi.ai/)
 * Co-host at [NextDev.fm](https://nextdev.fm/)
-* Currently embracing ralph loops and running AI agents to write code 24/7
+* Embracing AI-assisted software development
 
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
