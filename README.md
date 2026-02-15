@@ -44,8 +44,7 @@
   enhancements and quality-of-life tweaks (hide annoying stuff like shorts).
 - [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
   server and compliance harness for Rust.
-- [chronicler](https://github.com/goosewin/chronicler): AI-driven changelog
-  generator for Git repositories.
+- [codex-subagent-orchestrator](https://github.com/goosewin/codex-subagent-orchestrator): Spawn Codex CLI subagents from Codex macOS app.
 - [goosewin.com](https://goosewin.com): Personal site and writing.
 - [goosewin-nvim](https://github.com/goosewin/goosewin-nvim): Neovim
   configuration based on LazyVim.
