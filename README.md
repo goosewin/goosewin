@@ -26,13 +26,8 @@
   <img height="20" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img height="20" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
   <img height="20" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
-</p>
-
-<p align="left">
   <img height="20" src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img height="20" src="https://img.shields.io/badge/-OpenCode-111111?style=flat-square" alt="OpenCode" />
   <img height="20" src="https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img height="20" src="https://img.shields.io/badge/-Gemini%20CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini CLI" />
 </p>
 
 ## Latest projects
