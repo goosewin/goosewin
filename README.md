@@ -1,33 +1,40 @@
 # Dan Goosewin
 
-I build AI agents, developer tools, and founder-led media systems at
-[Goosewin Media Group](https://goosewin.com).
+I build AI agents, developer tools, and founder-led media systems at [Goosewin
+Media Group](https://goosewin.com).
 
 Previously led Developer Relations at [Vapi](https://vapi.ai/), co-hosted
 [NextDev.fm](https://nextdev.fm/), and now spend most of my time turning agentic
 software workflows into useful products, content, and infrastructure.
 
-## Current Focus
+Follow along for practical work on:
 
-- AI coding agents, orchestration, evaluation loops, and local-first automation.
-- Developer tools for faster review, release notes, CI, and production ops.
-- Founder-led media systems for technical storytelling and distribution.
-- Practical infrastructure: Bun, Woodpecker, Vercel, Convex, Docker, and Linux.
+- agentic coding workflows that survive real repos, CI, and review loops
+- local-first automation, eval harnesses, and subagent orchestration
+- Bun-first TypeScript, Rust services, Convex apps, and self-hosted CI
+- founder-led technical media that turns engineering work into distribution
 
-## Projects
+## Start Here
 
 - [chronicler](https://github.com/goosewin/chronicler): AI changelog generator
-  that turns commits into polished release notes.
-- [gralph](https://github.com/goosewin/gralph): Autonomous AI coding loop
-  harness for running, evaluating, and comparing agents.
-- [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
-  server and compliance harness for Rust.
-- [better-youtube](https://github.com/goosewin/better-youtube): Chrome
-  extension that hides Shorts and cleans up noisy YouTube surfaces.
+  that turns raw commits into polished, shareable release notes.
+- [gralph](https://github.com/goosewin/gralph): autonomous coding-loop harness
+  for running, evaluating, and comparing agents.
 - [codex-subagent-orchestrator](https://github.com/goosewin/codex-subagent-orchestrator):
   utilities for coordinating Codex CLI subagents from the Codex macOS app.
+- [goose-http](https://github.com/goosewin/goose-http): spec-focused HTTP/1.1
+  server and compliance harness for Rust.
+- [better-youtube](https://github.com/goosewin/better-youtube): Chrome extension
+  that hides Shorts and cleans up noisy YouTube surfaces.
 - [goose.dev](https://www.goose.dev): writing on AI agents, devtools, and
   founder-led software work.
+
+## Current Stack
+
+I mostly ship with Bun, TypeScript, React, Next.js, Convex, Rust, Python,
+Docker, Woodpecker CI, Vercel, Hetzner, and Linux. I care about explicit
+verification surfaces: tests, audits, production deploys, branch protection,
+logs, and rollback paths.
 
 ## Stack
 
@@ -51,3 +58,4 @@ software workflows into useful products, content, and infrastructure.
 - Writing: [goose.dev](https://www.goose.dev)
 - YouTube: [@dan_goosewin](https://youtube.com/@dan_goosewin)
 - X: [@goosewin](https://x.com/goosewin)
+- Work with Goosewin: [Goosewin Media Group](https://goosewin.com)
