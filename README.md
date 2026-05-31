@@ -17,8 +17,6 @@ I build AI agents, developer tools, and do Fractional DevRel at [Goosewin Media 
 - [goose.dev](https://www.goose.dev): writing on AI agents, devtools, and
   founder-led software work.
 
-## Stack
-
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img height="20" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
