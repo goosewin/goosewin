@@ -1,18 +1,6 @@
 # Dan Goosewin
 
-I build AI agents, developer tools, and founder-led media systems at
-[Goosewin Media Group](https://goosewin.com).
-
-Previously led Developer Relations at [Vapi](https://vapi.ai/), co-hosted
-[NextDev.fm](https://nextdev.fm/), and now spend most of my time turning agentic
-software workflows into useful products, content, and infrastructure.
-
-## Current Focus
-
-- AI coding agents, orchestration, evaluation loops, and local-first automation.
-- Developer tools for faster review, release notes, CI, and production ops.
-- Founder-led media systems for technical storytelling and distribution.
-- Practical infrastructure: Bun, Woodpecker, Vercel, Convex, Docker, and Linux.
+I build AI agents, developer tools, and do Fractional DevRel at [Goosewin Media Group](https://goosewin.com). Previously led Developer Relations at [Vapi](https://vapi.ai/), co-hosted [NextDev.fm](https://nextdev.fm/).
 
 ## Projects
 
@@ -50,4 +38,4 @@ software workflows into useful products, content, and infrastructure.
 - Website: [goosewin.com](https://goosewin.com)
 - Writing: [goose.dev](https://www.goose.dev)
 - YouTube: [@dan_goosewin](https://youtube.com/@dan_goosewin)
-- X: [@goosewin](https://x.com/goosewin)
+- X/Twitter: [@goosewin](https://x.com/goosewin)
