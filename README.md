@@ -1,6 +1,6 @@
 # Dan Goosewin
 
-- CEO @ [Goosewin Media Group](https://goosewin.com).
+- CEO at [Goosewin Media Group](https://goosewin.com).
 - Previously led Developer Relations at [Vapi](https://vapi.ai/), and co-hosted [NextDev.fm](https://nextdev.fm/) podcast.
 
 <p align="left">
