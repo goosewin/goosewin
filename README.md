@@ -1,6 +1,7 @@
 # Dan Goosewin
 
-Fractional DevRel at [Goosewin Media Group](https://goosewin.com). Previously led Developer Relations at [Vapi](https://vapi.ai/), and co-hosted [NextDev.fm](https://nextdev.fm/) podcast.
+- Fractional DevRel at [Goosewin Media Group](https://goosewin.com).
+- Previously led Developer Relations at [Vapi](https://vapi.ai/), and co-hosted [NextDev.fm](https://nextdev.fm/) podcast.
 
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
