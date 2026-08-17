@@ -1,21 +1,6 @@
 # Dan Goosewin
 
-I build AI agents, developer tools, and do Fractional DevRel at [Goosewin Media Group](https://goosewin.com). Previously led Developer Relations at [Vapi](https://vapi.ai/), co-hosted [NextDev.fm](https://nextdev.fm/).
-
-## Projects
-
-- [chronicler](https://github.com/goosewin/chronicler): AI changelog generator
-  that turns commits into polished release notes.
-- [gralph](https://github.com/goosewin/gralph): Autonomous AI coding loop
-  harness for running, evaluating, and comparing agents.
-- [goose-http](https://github.com/goosewin/goose-http): Spec-focused HTTP/1.1
-  server and compliance harness for Rust.
-- [better-youtube](https://github.com/goosewin/better-youtube): Chrome
-  extension that hides Shorts and cleans up noisy YouTube surfaces.
-- [codex-subagent-orchestrator](https://github.com/goosewin/codex-subagent-orchestrator):
-  utilities for coordinating Codex CLI subagents from the Codex macOS app.
-- [goose.dev](https://www.goose.dev): writing on AI agents, devtools, and
-  founder-led software work.
+Fractional DevRel at [Goosewin Media Group](https://goosewin.com). Previously led Developer Relations at [Vapi](https://vapi.ai/), and co-hosted [NextDev.fm](https://nextdev.fm/) podcast.
 
 <p align="left">
   <img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -33,7 +18,8 @@ I build AI agents, developer tools, and do Fractional DevRel at [Goosewin Media 
 
 ## Links
 
-- Website: [goosewin.com](https://goosewin.com)
-- Writing: [goose.dev](https://www.goose.dev)
+- My company: [goosewin.com](https://goosewin.com)
+- My blog: [goose.dev](https://www.goose.dev)
 - YouTube: [@dan_goosewin](https://youtube.com/@dan_goosewin)
 - X/Twitter: [@goosewin](https://x.com/goosewin)
+- LinkedIn: [@goosewin](https://linkedin.com/in/goosewin)
