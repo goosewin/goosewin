@@ -22,4 +22,4 @@ Fractional DevRel at [Goosewin Media Group](https://goosewin.com). Previously le
 - My blog: [goose.dev](https://www.goose.dev)
 - YouTube: [@dan_goosewin](https://youtube.com/@dan_goosewin)
 - X/Twitter: [@goosewin](https://x.com/goosewin)
-- LinkedIn: [@goosewin](https://linkedin.com/in/goosewin)
+- LinkedIn: [/in/goosewin](https://linkedin.com/in/goosewin)
